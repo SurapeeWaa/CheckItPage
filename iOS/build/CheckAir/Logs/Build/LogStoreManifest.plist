@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>26AF8255-BC59-439D-A5E2-34ABBF461144</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26AF8255-BC59-439D-A5E2-34ABBF461144.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CheckAir project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CheckAir</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CheckAir with scheme CheckAir and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580068694.243402</real>
+			<key>timeStoppedRecording</key>
+			<real>580068701.07017004</real>
+			<key>title</key>
+			<string>Building project CheckAir with scheme CheckAir and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>26AF8255-BC59-439D-A5E2-34ABBF461144</string>
+		</dict>
+		<key>B1489FEF-6FED-49A8-B362-110524F61015</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1489FEF-6FED-49A8-B362-110524F61015.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CheckAir project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CheckAir</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project CheckAir with scheme CheckAir and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580064792.42178702</real>
+			<key>timeStoppedRecording</key>
+			<real>580064793.68631995</real>
+			<key>title</key>
+			<string>Building project CheckAir with scheme CheckAir and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B1489FEF-6FED-49A8-B362-110524F61015</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
